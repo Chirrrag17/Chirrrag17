@@ -2,12 +2,13 @@
 <h3 align="center">ECE Student | AI/ML Enthusiast | Python Developer | Core Electronics Explorer</h3>
 
 <p align="center">
+ 
+  
   <img align="right" alt="Gojo" width="350" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif">
+
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
