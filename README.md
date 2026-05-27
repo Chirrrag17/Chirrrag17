@@ -7,18 +7,17 @@
 </p>
 
 ---
-
 ## 🚀 About Me
-  <br><br><br>
-  <img align="right" alt="Anime" width="350" src="YOUR_GIF_LINK" style="margin-top: 80px;">
 
-- 🎓 Electronics & Communication Engineering Student  
-- 💻 Interested in Python, AI/ML, and Full Stack Development  
-- ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects  
-- 🔭 Currently building Sports Analytics and AI Projects  
-- 🏆 Best Use of Sarvam AI – National Hardware Hackathon 3.0  
-- 🌱 Learning Backend Development  
+⠀
+⠀
+⠀
 
+<img align="right" alt="Anime" width="350" src="YOUR_GIF_LINK">
+
+- 🎓 Electronics & Communication Engineering Student
+- 💻 Interested in Python, AI/ML, and Full Stack Development
+- ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects
 ---
 
 ## 🌐 Connect With Me
