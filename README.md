@@ -2,7 +2,7 @@
 <h3 align="center">ECE Student | AI/ML Enthusiast | Python Developer | Core Electronics Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Enthusiast;PCB+Design+%26+VLSI+Learner;Full+Stack+Developer;Hackathon+Builder+🚀" />
+  <img align="right" alt="Gojo" width="350" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif">
 </p>
 
 ---
