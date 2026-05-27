@@ -2,18 +2,22 @@
 <h3 align="center">ECE Student | AI/ML Enthusiast | Python Developer | Core Electronics Explorer</h3>
 
 <p align="center">
- 
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Enthusiast;PCB+Design+%26+VLSI+Learner;Full+Stack+Developer;Hackathon+Builder+🚀" />
 </p>
 
 ---
-## 🚀 About Me
-<img align="right" alt="Gojo" width="350" src="https://media.tenor.com/hsJvEC4R1xAAAAAC/gojo-satoru.gif">
 
-- 🎓 Electronics & Communication Engineering Student
-- 💻 Interested in Python, AI/ML, and Full Stack Development
-- ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects
-- 🌱 Learning Backend Development
+<img align="right" alt="Gojo" width="350" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif">
+
+## 🚀 About Me
+
+- 🎓 Electronics & Communication Engineering Student  
+- 💻 Interested in Python, AI/ML, and Full Stack Development  
+- ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects  
+- 🔭 Currently building Sports Analytics and AI Projects  
+- 🏆 Best Use of Sarvam AI – National Hardware Hackathon 3.0  
+- 🌱 Learning Backend Development  
+
 ---
 
 ## 🌐 Connect With Me
