@@ -13,7 +13,7 @@
 
 - 🎓 Electronics & Communication Engineering Student  
 - 💻 Interested in Python, AI/ML, and Full Stack Development  
-- ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects  
+- ⚡ Passionate about PCB Design , Core Electronics Projects  
 - 🔭 Currently building Sports Analytics and AI Projects  
 - 🏆 Best Use of Sarvam AI – National Hardware Hackathon 3.0  
 - 🌱 Learning Backend Development  
@@ -54,10 +54,20 @@
 ## ⚙️ Electronics & Hardware
 
 - 🔌 PCB Design  
-- ⚡ VLSI Fundamentals  
 - 🧠 Verilog & SystemVerilog  
 - 📊 MATLAB  
-- 🛠 Cadence Virtuoso  
+- 🛠 Cadence Virtuoso
+
+  ## ⚙️ Software & Development
+
+- 🐍 Python
+- 🌐 Node.js & Express.js
+- 🤖 AI/ML
+- 🧠 Flask
+- 💻 Full Stack Development
+- 🛠 VS Code
+- 🔧 Git & GitHub
+- 📊 Sports Analytics 
 
 ---
 
