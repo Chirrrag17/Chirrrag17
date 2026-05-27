@@ -16,7 +16,7 @@
 - ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects  
 - 🔭 Currently building Sports Analytics and AI Projects  
 - 🏆 Best Use of Sarvam AI – National Hardware Hackathon 3.0  
-- 🌱 Learning DevOps & Advanced Backend Development  
+- 🌱 Learning Backend Development  
 
 ---
 
