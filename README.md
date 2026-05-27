@@ -13,11 +13,12 @@
 ⠀
 ⠀
 
-<img align="right" alt="Anime" width="350" src="YOUR_GIF_LINK">
+<img align="right" alt="Gojo" width="350" src="https://media.tenor.com/hsJvEC4R1xAAAAAC/gojo-satoru.gif">
 
 - 🎓 Electronics & Communication Engineering Student
 - 💻 Interested in Python, AI/ML, and Full Stack Development
 - ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects
+- 🌱 Learning Backend Development
 ---
 
 ## 🌐 Connect With Me
