@@ -3,14 +3,14 @@
 
 <p align="center">
  
-  <br><br><br>
-  <img align="right" alt="Gojo" width="350" src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif">
 
 </p>
 
 ---
 
 ## 🚀 About Me
+  <br><br><br>
+  <img align="right" alt="Anime" width="350" src="YOUR_GIF_LINK" style="margin-top: 80px;">
 
 - 🎓 Electronics & Communication Engineering Student  
 - 💻 Interested in Python, AI/ML, and Full Stack Development  
