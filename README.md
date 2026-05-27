@@ -8,11 +8,6 @@
 
 ---
 ## 🚀 About Me
-
-⠀
-⠀
-⠀
-
 <img align="right" alt="Gojo" width="350" src="https://media.tenor.com/hsJvEC4R1xAAAAAC/gojo-satoru.gif">
 
 - 🎓 Electronics & Communication Engineering Student
