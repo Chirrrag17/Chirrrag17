@@ -1,48 +1,73 @@
-<h1 align="center">Hi 👋, I'm Chirag Neelgund</h1>
-<h3 align="center">ECE Student | AI/ML Enthusiast | Python Developer | Core Electronics Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img align="right" width="320" src="https://media.tenor.com/hsJvEC4R1xAAAAAC/gojo-satoru.gif">
-</p>
+# Hi 👋, I'm Chirag Neelgund
 
+### ECE Student | AI/ML Enthusiast | Python Developer | Core Electronics Explorer
+
+</div>
+
+---
+
+<img align="right" alt="Zoro" width="400" src="./zoro.gif">
 
 ## 🚀 About Me
 
-- 🎓 Electronics & Communication Engineering Student  
-- 💻 Interested in Python, AI/ML, and Full Stack Development  
-- ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects  
-- 🔭 Currently building Sports Analytics and AI Projects  
-- 🏆 Best Use of Sarvam AI – National Hardware Hackathon 3.0  
-- 🌱 Learning DevOps & Advanced Backend Development  
+- 🎓 Electronics & Communication Engineering Student
+- 💻 Interested in Python, AI/ML, and Full Stack Development
+- ⚡ Passionate about PCB Design, VLSI, and Core Electronics Projects
+- 📊 Currently building Sports Analytics and AI Projects
+- 🏆 Best Use of Sarvam AI – National Hardware Hackathon 3.0
+- 🌱 Learning Backend Development
+
+<br clear="right"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/chirag-neelgund-8b2b50317/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+
+<a href="https://www.linkedin.com/in/chirag-neelgund-8b2b50317/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50">
 </a>
+
 <a href="mailto:chiragbn091@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50">
 </a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Software & Development
+
+- 🐍 Python
+- 🤖 AI / Machine Learning
+- 🌐 Node.js & Express.js
+- 🧠 Flask
+- 💻 Full Stack Development
+- 🛠 VS Code
+- 🔧 Git & GitHub
+- 📊 Sports Analytics
+
+---
+
+## ⚙️ Electronics & Hardware
+
+- 🔌 PCB Design
+- 🧠 Verilog & SystemVerilog
+- 📊 MATLAB
+- 🛠 Cadence Virtuoso
+- ⚡ VLSI
+- 🔧 Core Electronics Projects
+
+---
+
+## 🧰 Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img src="https://skillicons.dev/icons?i=express" height="50"/>
-<img src="https://skillicons.dev/icons?i=flask" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=arduino" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,cpp,arduino,vscode,git,github">
 
 </p>
 
@@ -51,24 +76,47 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirrrag17&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirrrag17&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chirrrag17&show_icons=true&theme=tokyonight">
+
 </p>
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Chirrrag17&theme=tokyonight">
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chirrrag17&theme=tokyonight&row=1&column=6">
+
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
-[![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrrag17&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirrrag17&theme=tokyo-night">
+
+</p>
 
 ---
 
+<div align="center">
 
-<p align="center">
-⭐️ From <b>Chirrrag17</b>
-</p>
-<p align="center">
-  <em>"When something is important enough, you do it even if the odds are not in your favor." — Elon Musk</em>
-</p>
+### ⚡ Building • Learning • Creating 🚀
+
+**Thanks for visiting my profile!**
+
+</div>
