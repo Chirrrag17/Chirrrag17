@@ -92,12 +92,15 @@
 
 ---
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chirrrag17&theme=tokyonight&row=1&column=6&margin-w=15&no-frame=true" />
+  <img src="./trophy.svg" alt="GitHub Trophies">
 </p>
 
+---
 ---
 
 ## 📈 Contribution Graph
