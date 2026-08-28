@@ -4,7 +4,7 @@
 <p align="center">
   <!-- small Hinata (Haikyu!!) gif — grab a real link from giphy.com/search/hinata-haikyuu
        (or tenor.com) and paste the direct .gif URL below -->
-  <img src="https://media1.tenor.com/images/c8d694f0010318bf8fa1ad07e8943df9/tenor.gif?itemid=18189975" width="150" alt="Hinata Haikyuu gif"/>
+  <img src="[https://media1.tenor.com/images/c8d694f0010318bf8fa1ad07e8943df9/tenor.gif?itemid=18189975" width="150" alt="Hinata Haikyuu gif](https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/hulu/C112CDB35855AD8C8D38BE9D413169F8B2C05FBF21AEB13D1A810BE56A6257F4/compose?format=webp&width=2560)"/>
 </p>
 
 <p align="center">
