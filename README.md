@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 <img align="right" alt="Zoro" width="400" src="./zoro.gif">
 
@@ -73,12 +73,13 @@
 
 ---
 
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chirrrag17&show_icons=true&theme=tokyonight">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirrrag17&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -86,9 +87,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Chirrrag17&theme=tokyonight">
-
+  <img src="https://streak-stats.demolab.com/?user=Chirrrag17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -96,9 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chirrrag17&theme=tokyonight&row=1&column=6">
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Chirrrag17&theme=tokyonight&row=1&column=6&margin-w=15&no-frame=true" />
 </p>
 
 ---
@@ -106,17 +103,20 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirrrag17&theme=tokyo-night">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirrrag17&theme=tokyo-night" />
 </p>
+
+---
+<div align="center">
 
 ---
 
 <div align="center">
 
-### ⚡ Building • Learning • Creating 🚀
+### 💡 "When something is important enough, you do it even if the odds are not in your favor."
 
-**Thanks for visiting my profile!**
+— **Elon Musk**
+
+</div>
 
 </div>
