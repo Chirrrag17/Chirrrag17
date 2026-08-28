@@ -2,12 +2,9 @@
 <h3 align="center">ECE Student | AI/ML Enthusiast | Python Developer | Core Electronics Explorer</h3>
 
 <p align="center">
-  <img src="<img align="right" alt="Gojo" width="350" src="https://media.tenor.com/hsJvEC4R1xAAAAAC/gojo-satoru.gif"> />
+  <img align="right" width="320" src="https://media.tenor.com/hsJvEC4R1xAAAAAC/gojo-satoru.gif">
 </p>
 
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
@@ -51,16 +48,6 @@
 
 ---
 
-## ⚙️ Electronics & Hardware
-
-- 🔌 PCB Design  
-- ⚡ VLSI Fundamentals  
-- 🧠 Verilog & SystemVerilog  
-- 📊 MATLAB  
-- 🛠 Cadence Virtuoso  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,13 +58,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chirrrag17&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
