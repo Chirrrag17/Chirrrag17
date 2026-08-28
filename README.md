@@ -73,15 +73,6 @@
 
 ---
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirrrag17&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -103,15 +94,7 @@
 </p>
 
 ---
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirrrag17&theme=tokyo-night" />
-</p>
-
----
 <div align="center">
 
 ---
